@@ -12,7 +12,7 @@
 	<key>DefaultCompletionName</key>
 	<string>Test</string>
 	<key>Description</key>
-	<string>An Objective-C class implementing a unit test (using either the XCTest or OCUnit framework).</string>
+	<string>An Objective-C class implementing a unit test (using either the XCTest, OCUnit, or KIF framework).</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
@@ -50,6 +50,7 @@
 			<array>
 				<string>XCTestCase</string>
 				<string>SenTestCase</string>
+				<string>KIFTestCase</string>
 			</array>
 		</dict>
 	</array>

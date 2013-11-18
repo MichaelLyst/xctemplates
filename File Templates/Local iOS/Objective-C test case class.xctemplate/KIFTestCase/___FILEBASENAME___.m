@@ -3,7 +3,11 @@
 //___COPYRIGHT___
 //
 
-#import "___FILEBASENAME___.h"
+#import <KIF/KIF.h>
+
+@interface ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_testSubclass___
+
+@end
 
 @implementation ___FILEBASENAMEASIDENTIFIER___
 
